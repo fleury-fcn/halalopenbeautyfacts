@@ -96,7 +96,7 @@ For an overview of how the codebase is organized (frontend, Django backend, data
 
 ## 💬 Questions?
 
-If anything is unclear, open an issue with the `question` label, or reach out via [mailto:halalopenfoodfacts@gmail.com].
+If anything is unclear, open an issue with the `question` label, or reach out via [halalopenfoodfacts@gmail.com].
 
 ---
 
